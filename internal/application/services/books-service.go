@@ -1,13 +1,13 @@
 package services
 
 import (
-	"github.com/go-web-templates/web/pkg/logger"
-	"github.com/go-web-templates/web/internal/application/dtos"
-	cacherepositories "github.com/go-web-templates/web/internal/application/interfaces/cache-repositories"
-	eventhandlers "github.com/go-web-templates/web/internal/application/interfaces/event-handlers"
-	"github.com/go-web-templates/web/internal/application/interfaces/repositories"
-	"github.com/go-web-templates/web/internal/application/mappers"
-	events "github.com/go-web-templates/web/internal/domain/events/books"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/logger"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/dtos"
+	cacherepositories "github.com/Mth-Ryan/waveaction-blog/internal/application/interfaces/cache-repositories"
+	eventhandlers "github.com/Mth-Ryan/waveaction-blog/internal/application/interfaces/event-handlers"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/interfaces/repositories"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/mappers"
+	events "github.com/Mth-Ryan/waveaction-blog/internal/domain/events/books"
 	"github.com/google/uuid"
 )
 

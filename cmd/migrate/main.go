@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/go-web-templates/web/internal/infra/data"
-	"github.com/go-web-templates/web/pkg/conf"
+	"github.com/Mth-Ryan/waveaction-blog/internal/infra/data"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/conf"
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/golang-migrate/migrate/v4/database/postgres"
 	_ "github.com/golang-migrate/migrate/v4/source/file"

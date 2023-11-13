@@ -3,7 +3,7 @@ package books
 import (
 	"time"
 
-	"github.com/go-web-templates/web/internal/domain/entities"
+	"github.com/Mth-Ryan/waveaction-blog/internal/domain/entities"
 )
 
 type BookUpdatedEvent struct {

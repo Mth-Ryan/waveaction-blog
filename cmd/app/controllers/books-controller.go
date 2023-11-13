@@ -3,9 +3,9 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/go-web-templates/web/internal/application/dtos"
-	"github.com/go-web-templates/web/internal/application/interfaces"
-	"github.com/go-web-templates/web/internal/application/services"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/dtos"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/interfaces"
+	"github.com/Mth-Ryan/waveaction-blog/internal/application/services"
 	"github.com/gofiber/fiber/v2"
 )
 

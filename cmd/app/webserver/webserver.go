@@ -3,9 +3,9 @@ package webserver
 import (
 	"fmt"
 
-	"github.com/go-web-templates/web/cmd/app/controllers"
-	"github.com/go-web-templates/web/cmd/app/views"
-	"github.com/go-web-templates/web/pkg/conf"
+	"github.com/Mth-Ryan/waveaction-blog/cmd/app/controllers"
+	"github.com/Mth-Ryan/waveaction-blog/cmd/app/views"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/conf"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"go.uber.org/fx"

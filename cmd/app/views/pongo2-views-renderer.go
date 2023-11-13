@@ -4,8 +4,8 @@ import (
 	"io"
 	"path"
 
-	"github.com/go-web-templates/web/pkg/conf"
-	"github.com/go-web-templates/web/pkg/logger"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/conf"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/logger"
 	"github.com/flosch/pongo2/v6"
 )
 

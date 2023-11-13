@@ -3,7 +3,7 @@ package data
 import (
 	"fmt"
 
-	"github.com/go-web-templates/web/pkg/conf"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/conf"
 	"github.com/redis/go-redis/v9"
 )
 

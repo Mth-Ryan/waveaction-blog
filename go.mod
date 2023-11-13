@@ -1,4 +1,4 @@
-module github.com/go-web-templates/web
+module github.com/Mth-Ryan/waveaction-blog
 
 go 1.21.3
 

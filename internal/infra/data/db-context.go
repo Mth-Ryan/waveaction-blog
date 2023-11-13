@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/go-web-templates/web/pkg/conf"
+	"github.com/Mth-Ryan/waveaction-blog/pkg/conf"
 	_ "github.com/lib/pq"
 )
 

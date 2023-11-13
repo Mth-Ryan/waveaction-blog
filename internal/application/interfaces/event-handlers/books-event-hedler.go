@@ -1,7 +1,7 @@
 package eventhandlers
 
 import (
-	events "github.com/go-web-templates/web/internal/domain/events/books"
+	events "github.com/Mth-Ryan/waveaction-blog/internal/domain/events/books"
 )
 
 type BooksEventHandler interface {
